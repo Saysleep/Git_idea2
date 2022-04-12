@@ -5,5 +5,6 @@ public class Git {
         System.out.println("1");
         System.out.println("1");
         System.out.println("push");
+        System.out.println("push");
     }
 }
